@@ -1,0 +1,5 @@
+timestamp,model_version,prediction,latency_ms,feedback_score,feedback_text,input_summary
+2026-01-04 02:06:49.170903,v1_baseline,609621.8832783252,5.997896194458008,1,test,"Mukim: Kuala Lumpur Town Centre, Scheme: 18 MADGE"
+2026-01-04 02:06:49.170903,v2_project_specific,1918627.0019381791,6.123542785644531,5,test,"Mukim: Kuala Lumpur Town Centre, Scheme: 18 MADGE"
+2026-01-04 02:08:20.240939,v1_baseline,639872.1987700909,5.275249481201172,3,ok lah,"Mukim: Mukim Kuala Lumpur, Scheme: ABADI INDAH APARTMENT"
+2026-01-04 02:08:20.240939,v2_project_specific,386571.98689029366,5.807161331176758,3,ok lah,"Mukim: Mukim Kuala Lumpur, Scheme: ABADI INDAH APARTMENT"
